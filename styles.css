@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+h1 {
+    color: #0266c8;
+    font-size: 60pt;
+}
+body {
+    color: red;
+    font-size: 20pt;
+
+
+
+    
+}
+button {
+    font-size: 20px;
+    font-family: Arial;
+    padding: 10px 20px;
+    border: 10px solid black; /* Adjust the thickness of the border here */
+}
